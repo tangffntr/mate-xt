@@ -10,7 +10,11 @@
 
 HUAWEI 5A 数据线 （ 白色 ）  https://m.vmall.com/order/confirm?skuIdAndQtys=10086361107107:1
 
-
+9.22商品skuid
+HUAWEI Mate XT 非凡大师 16GB+1TB 瑞红"https://m.vmall.com/order/confirm?skuIdAndQtys=10086028871147:1"
+HUAWEI Mate XT 非凡大师 16GB+512GB 瑞红"https://m.vmall.com/order/confirm?skuIdAndQtys=10086973231502:1"
+HUAWEI Mate XT 非凡大师 16GB+1TB 玄黑"https://m.vmall.com/order/confirm?skuIdAndQtys=10086960895118:1"
+HUAWEI Mate XT 非凡大师 16GB+512GB 玄黑"https://m.vmall.com/order/confirm?skuIdAndQtys=10086299035140:1"#
 
 ## 获取当天商品skuid
 
